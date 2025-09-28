@@ -9,12 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+we used flip flops to make a traffic light
 ## How to test
 
-Explain how to use your project
-
+drive up to it and it should hopefully work! :D
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LEDS yayayayay (red green and i think I did magenta haha)
